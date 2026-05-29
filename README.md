@@ -30,7 +30,7 @@ Make sure you have installed:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/YOUR_USERNAME/react-todo-list.git
+git clone https://github.com/ranabensalem757/react-todo-list.git
 ```
 
 2. Navigate to the project folder:
